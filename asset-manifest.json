@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Instagram-Clone/static/css/main.aa38b55e.css",
+    "main.js": "/Instagram-Clone/static/js/main.ad710853.js",
+    "static/media/SN.jpg": "/Instagram-Clone/static/media/SN.b3d83391dd3de459f3f8.jpg",
+    "static/media/musk.jpg": "/Instagram-Clone/static/media/musk.ddc5227ce7be3e45c656.jpg",
+    "static/media/post1.jpg": "/Instagram-Clone/static/media/post1.5b50a878a11f14dd69fd.jpg",
+    "static/media/messi.jpg": "/Instagram-Clone/static/media/messi.9ed92bc3c8d3f523d53f.jpg",
+    "static/media/mark.jpg": "/Instagram-Clone/static/media/mark.3e5ace306e47ccea5258.jpg",
+    "static/media/billgates.webp": "/Instagram-Clone/static/media/billgates.d74117ecac13f63e6784.webp",
+    "static/media/ronaldo.jpg": "/Instagram-Clone/static/media/ronaldo.dbfebdc6d356abc926bd.jpg",
+    "static/media/PC.jpg": "/Instagram-Clone/static/media/PC.54904baf4ac6bb5ac1c7.jpg",
+    "static/media/aw.jpg": "/Instagram-Clone/static/media/aw.74439ea4181b351a8a6b.jpg",
+    "static/media/vkholi.jpg": "/Instagram-Clone/static/media/vkholi.7041a23367137d749e77.jpg",
+    "static/media/text.png": "/Instagram-Clone/static/media/text.922c5f3179cf9ec29db6.png",
+    "static/media/cz.jpg": "/Instagram-Clone/static/media/cz.8cba21f3e5b36ad4c4fb.jpg",
+    "static/media/prof.jpg": "/Instagram-Clone/static/media/prof.4be5ce76af06412765bd.jpg",
+    "static/media/adani.jpeg": "/Instagram-Clone/static/media/adani.d57f7c3e3175d3bdc363.jpeg",
+    "static/media/p5.jpg": "/Instagram-Clone/static/media/p5.f2672e3aabf469512d11.jpg",
+    "static/media/skd.webp": "/Instagram-Clone/static/media/skd.fc35b32e35343026d5d9.webp",
+    "index.html": "/Instagram-Clone/index.html",
+    "main.aa38b55e.css.map": "/Instagram-Clone/static/css/main.aa38b55e.css.map",
+    "main.ad710853.js.map": "/Instagram-Clone/static/js/main.ad710853.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa38b55e.css",
+    "static/js/main.ad710853.js"
+  ]
+}
